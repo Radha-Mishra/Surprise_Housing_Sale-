@@ -6,9 +6,11 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+
 
 ## General Information
-- A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. . The company is looking at prospective properties to buy to enter the market. You are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
+- A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them at a higher price. . The company is looking at prospective properties to buy to enter the market. You are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 
 ### The company wants to know:
 
@@ -39,12 +41,3 @@ This project was based on (https://learn.upgrad.com/course/3611/segment/21308/17
 
 ## Contact
 Created by [@Radha-Mishra] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->#�S�u�r�p�r�i�s�e�_�H�o�u�s�i�n�g�_�S�a�l�e�
-�
-�
