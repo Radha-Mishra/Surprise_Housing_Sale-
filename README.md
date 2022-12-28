@@ -34,9 +34,8 @@ This model will be used by the management to understand how exactly the prices v
 
 
 ## Acknowledgements
-- Tutorial video on Advanced Regression, Lasso regression & Ridge Regression
-Weekend live session on the assignment details, advanced regression basics and doubt resolution
-This project was based on (https://learn.upgrad.com/course/3611/segment/21308/177004/543155/2785506)
+- Tutorial video on Advanced Regression, Lasso regression & Ridge Regression Weekend live session on the assignment details, advanced regression basics and doubt resolution
+- This project was based on (https://learn.upgrad.com/course/3611/segment/21308/177004/543155/2785506)
 
 
 ## Contact
